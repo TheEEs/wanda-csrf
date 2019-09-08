@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/TheEEs/kemal-csrf.svg?branch=master)](https://travis-ci.org/TheEEs/kemal-csrf)
+[![Build Status](https://travis-ci.org/TheEEs/wanda-csrf.svg?branch=master)](https://travis-ci.org/TheEEs/wanda-csrf)
 # kemal-csrf
 
 Adds CSRF protection to your [Kemal](http://kemalcr.com) application.

@@ -1,5 +1,5 @@
 require "spec"
-require "../src/kemal-csrf"
+require "../src/wanda-csrf"
 Kemal::Session.config.secret = "my_super_secret"
 def create_request_and_return_io(handler, request)
   io = IO::Memory.new
